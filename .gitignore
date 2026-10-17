@@ -1,0 +1,36 @@
+# Research data and outputs
+/data/
+/results/
+/results_field1_full/
+/trials/
+/review/
+*.lif
+*.tif
+*.tiff
+*.czi
+*.nd2
+*.ome
+*.roi
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+
+# Generated files and local environments
+__pycache__/
+*.py[cod]
+*.class
+*.jar
+*.log
+*.tmp
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
